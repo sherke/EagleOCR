@@ -8,7 +8,10 @@
         padding: 0%;
         margin: 0%;
     }
-
+    
+    div{
+        -webkit-tap-highlight-color: transparent;
+    }
       
     
     
