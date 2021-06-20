@@ -857,7 +857,6 @@ window.onload = function () {
 // Speaker Library
 $(".speakerblock").click(function () {
     responsiveVoice.speak($(".rbtop").text());
-    $(".speakerblock").css({"background-image":"url(./assets/speaker.png)","border":"2px solid darkblue","background-color":"white"})
 })
 
 
