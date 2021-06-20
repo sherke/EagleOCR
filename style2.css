@@ -935,17 +935,7 @@
         
         cursor: pointer;
     }
-    .speakerblock:hover{
-        
-        background-image: url(./assets/speaker.png);
-        background-color: white;
-    }
-    .speakerblock:active{
-        
-        background-image: url(./assets/speaker.png);
-        background-color: white;
-    }
-    
+
     
     /* ___________________________________ */
 
