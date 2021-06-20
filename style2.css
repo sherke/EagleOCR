@@ -921,10 +921,11 @@
     
     
     .speakerblock{
-
+        box-sizing:border-box;
         position: absolute;
         bottom: 55px;
         right: 5px;
+        border:2px solid lightblue;
         background-color:lightblue;
         width: 40px;
         height: 40px;
