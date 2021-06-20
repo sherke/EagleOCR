@@ -940,8 +940,7 @@
         cursor: pointer;
     }
     .speakerblock:hover{
-        background-image: url(./assets/speaker.png);
-        background-color: white;
+        background-color: darkblue;
         border: 2px solid darkblue;
     }
 
